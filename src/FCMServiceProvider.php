@@ -5,7 +5,7 @@ namespace LaravelFCM;
 use LaravelFCM\Sender\FCMGroup;
 use LaravelFCM\Sender\FCMSender;
 use Illuminate\Support\ServiceProvider;
-use Illuminate\Support\Str
+use Illuminate\Support\Str;
 
 class FCMServiceProvider extends ServiceProvider
 {
